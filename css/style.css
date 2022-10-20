@@ -1,0 +1,54 @@
+.gambar{
+    height: 200px;
+    margin-right: 10px;
+}
+.fa-solid{
+    padding-left: 10px;
+}
+.navbar-brand{  
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+@media (min-width: 992px) { 
+    .gambar{
+        height: 500px;
+        width: 1174px;
+    }
+    .card{
+        
+        width: 15rem;
+        height: 14rem;
+    }
+    .row{
+        margin-right: 0;
+    }
+ }
+ .card{
+    width: 22rem;
+    height: 15rem;
+ }
+ 
+  .nav-item:hover{
+    color: blue;
+  }
+
+.btn:hover{
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+.card-body{
+   background: url(images/Rectangle4.png);
+}
+.row{
+    margin-right: 12px;
+}
+.i{
+    width: 15rem;
+}
+img:hover{
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+.card:hover{
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    cursor: pointer;
+}
+  
